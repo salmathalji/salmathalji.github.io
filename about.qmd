@@ -1,5 +1,5 @@
 ---
-title: "Salma Thalji blahblahblah"
+title: "Salma Thalji blahblahblahblahblah"
 about:
   id: template-area
   template: jolla
